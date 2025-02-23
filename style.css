@@ -382,3 +382,25 @@ body {
 
     
 }
+.intro-buttons .button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    border: none;
+    text-decoration: none;
+    margin: 2rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(53, 213, 207);
+    color: #000000;
+    border: 2px solid #000000;
+    transition: all 0.25s; 
+}
+.intro-buttons .button:hover {
+    background-color: #000000;
+    color: #ffffff;
+    border: 2px solid #00d6d6;
+    outline: none;
+}
