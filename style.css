@@ -273,7 +273,7 @@ body {
     display: flex;
     list-style: none;
 }
-.social-links .footer-menu .footer-menu-list .footer-list-items:hover{
+.footer .footer-links .social-links .footer-menu .footer-menu-list .footer-list-items:hover{
     background-color: #000000;
     color: #ffffff;
     border: 2px solid #00d6d6;
