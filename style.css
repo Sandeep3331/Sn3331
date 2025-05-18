@@ -24,7 +24,8 @@ body {
      background-image: url(images\ \(11\)-02.jpeg);
     width: 160px;
     height: auto;
-    border-radius: 50%;
+    border-radius: 5%;
+    border:groove;
     
     border-color: #000000;
     
