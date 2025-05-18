@@ -22,7 +22,7 @@ body {
 
 .logo .logo-heading {
      background-image: url(images\ \(11\)-02.jpeg);
-    width: 160px;
+    width: 80px;
     height: auto;
     border-radius: 5%;
     border:groove;
@@ -325,7 +325,7 @@ body {
 }
 
 .links:hover {
-    border-bottom: 2px solid #e20505;
+    border-bottom: 2px solid #fff;
 }
 
 .links {
