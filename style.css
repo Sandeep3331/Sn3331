@@ -17,20 +17,19 @@ body {
 }
 
 .logo {
-    padding: 0 5rem;
+    padding: 0.9rem;
+    padding-top: 0.9rem;
 }
 
 .logo .logo-heading {
-     background-image: url(images\ \(11\)-02.jpeg);
-    width: 80px;
+    background-image: url(gold\ logo.png)
+    padding: 80px;
+    width: 200px;
     height: auto;
     border-radius: 5%;
     border:groove;
-    
     border-color: #fff;
-    
-    
-    margin-top: 10%;
+    opacity: 90%;
     
     
 }
@@ -327,6 +326,7 @@ body {
 
 .links:hover {
     border-bottom: 2px solid #fff;
+     border-radius: 40%;
 }
 
 .links {
@@ -335,7 +335,22 @@ body {
     padding: 5px;
     text-decoration: none;
     color: #fff;
+    background-image: -webkit-linear-gradient(125deg, #f2291b, #f7db25, #84f527);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-animation: hue 15s infinite linear;
 }
+    @-webkit-keyframes hue {
+    from {
+   -webkit-filter: hue-rotate(0deg);
+    }
+    to {
+   -webkit-filter: hue-rotate(-360deg); 
+   }
+ }
+
+
+
 
 .btn {
     padding: 10px 20px;
