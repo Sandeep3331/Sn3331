@@ -3,7 +3,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    width:100%;
+    width: fit-content;
 }
 
 /* Header Navbar Styles */
@@ -71,7 +71,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 800px;
+    height: 100vh;
     display: flex;
     align-items: flex;
     justify-content: start;
