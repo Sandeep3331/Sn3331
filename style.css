@@ -3,7 +3,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    width: fit-content;
+    width:fit-content;
 }
 
 /* Header Navbar Styles */
@@ -470,3 +470,4 @@ body {
     border: 2px solid #00d6d6;
     outline: none;
 }
+
