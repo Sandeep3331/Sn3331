@@ -69,8 +69,8 @@ body {
     background-image: url('./IMG_20211202_221337_142-01.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
-    width: 1550px;
-    height: 100vh;
+    width: 100%;
+    height: 800px;
     display: flex;
     align-items: flex;
     justify-content: start;
